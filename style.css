@@ -38,18 +38,20 @@ section.left {
     margin-top: 15px;
     margin-right: 5px;
     padding-top: 20px;
+    margin-left: 0px;
     float: left;
-    width: 48%;
+    width: 580px;
     height: 300px;
 }
 
 aside {
     margin-top: 15px;
-    margin-left: 5px;
+    margin-left: 43px;
     padding-top: 20px;
     float: left;
-    width: 48%;
+    width: 330px;
     height: 300px;
+    margin-right: 0px;
 }
 
 article {
